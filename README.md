@@ -11,7 +11,7 @@ Hopefully the total amount of wisdom (including uncollected) is much larger.
 * [Creating a poster](POSTERS.md)
 
 
-## Generaly logistics
+## General logistics
 * There is a weekly group meeting where one person presents a paper and a subset of people share recent results
 * There are weekly one-on-one meetings
 * Everyone should be subscribed to the [Koes Group Slack Team](http://koesgroup.slack.com)
