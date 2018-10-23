@@ -1,5 +1,4 @@
 # Koes Research Group
-## Department of Computational and Systems Biology
 
 This repository contains the collected wisdom of the research group.
 Hopefully the total amount of wisdom (including uncollected) is much larger.
