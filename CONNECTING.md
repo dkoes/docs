@@ -1,6 +1,6 @@
 # Connecting
 
-You should have an account on at least one workstation.  There are currently to shared workstations, `apogee.csb.pitt.edu` and `perigee.csb.pitt.edu`.
+You should have an account on at least one workstation.  There are currently two shared workstations, `apogee.csb.pitt.edu` and `perigee.csb.pitt.edu`.
 All workstations are behind the Pitt firewall, which means you cannot directly connect to them from outside the Pitt network (or even while connected to Pitt wireless).
 Contact the Dept. IT staff to get VPN access.  You will need special CompBio credentials to access our network even if you already have VPN setup.
 
