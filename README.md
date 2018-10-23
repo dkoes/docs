@@ -1,5 +1,5 @@
 # Koes Research Group
-
+#### Removing barriers to computational drug discovery one bit at a time
 This repository contains the collected wisdom of the research group.
 Hopefully the total amount of wisdom (including uncollected) is much larger.
 
