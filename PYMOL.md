@@ -17,5 +17,5 @@
 
 * First, download the color-by-mutation script [here](https://pymolwiki.org/index.php/Color_By_Mutations) and place it in your current directory.
 * In PyMOL, execute the following:
-``` run color_by_mutation.py;
-color_by_mutation protein1, protein2```
+` run color_by_mutation.py;
+color_by_mutation protein1, protein2`
