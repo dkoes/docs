@@ -7,6 +7,7 @@
 * i.e. `select modified, resname hem+glg+cyp`
 
 ## Alignment
+Here is how you align two proteins:
 
 * `align mobile, target`
 
