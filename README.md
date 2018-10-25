@@ -3,6 +3,7 @@
 This repository contains the collected wisdom of the research group.
 Hopefully the total amount of wisdom (including uncollected) is much larger.
 
+* [Contributing to these docs](GIT.md)
 * [Getting connected](CONNECTING.md)
 * [Setting up your linux environment](SETUP.md)
 * [Using the department cluster](CLUSTER.md)
