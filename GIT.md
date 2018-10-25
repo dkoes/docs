@@ -1,4 +1,4 @@
-#`git` Version Control
+# `git` Version Control
 
 ## Contributing to the docs
 
