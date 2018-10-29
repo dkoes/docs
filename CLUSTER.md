@@ -29,6 +29,8 @@ $cmd
 exit
 ```
 
+Run with `qsub -t1-100 run.pbs` to run lines 1 through 100.
+
 
 ## Sample MD script
 
